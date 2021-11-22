@@ -16,8 +16,8 @@ button {
 	width: 20%;
 	border: none;
 	border-radius: 4px;
-	margin-top: 11px;
-	margin-bottom: 11px;
+	margin-top: 12px;
+	margin-bottom: 12px;
 	margin-right: 30px;
 }
 
@@ -37,21 +37,17 @@ button:hover {
 
 .locations h3, .amenities h3 {
 	font-weight: 600;
-	margin: 0px 30px;
-	padding: 15px 0px 0px 0px;
 }
 
 .locations h4, .amenities h4 {
 	font-weight: 400;
 	font-size: 14px;
-	padding: 0px 0px 15px 0px;
-	margin: 0px 30px;
 }
 
 .popover{
 	display: none;
 	box-sizing: border-box;
-	background-color: #fafafa;
+	background-color: #FAFAFA;
 	width: 100%;
 	list-style-type: none;
 	border: 1px solid #ddd;
